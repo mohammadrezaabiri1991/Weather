@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1ABCaC</color>
+    <color name="colorAccent">#00726A</color>
+    <color name="color_styles">#991ABCaC</color>
+
+    <color name="colorText">#cc666666</color>
+    <color name="colorError">#ff4b4c</color>
+    <color name="colorWhite">#eeffffff</color>
+
+    <color name="coloLinearDetails">#eeffffff</color>
+
+
+
+    <color name="color_day_clear">#ee02A6EC</color>
+    <color name="color_night_clear">#ee8833ff</color>
+    <color name="color_day_cloudy">#ee91B2DF</color>
+    <color name="color_night_cloudy">#ee9A9FE1</color>
+    <color name="color_day_rainy">#ee77B4E1</color>
+    <color name="color_night_rainy">#ee7DB2E1</color>
+    <color name="color_day_part_cloud">#ee75A9D5</color>
+    <color name="color_night_part_cloud">#ee939DDB</color>
+    <color name="color_day_snow">#eeADACBA</color>
+    <color name="color_night_snow">#eeA3A0B3</color>
+    <color name="color_foggy">#eeBDADAD</color>
+    <color name="color_sleet">#ee899BAA</color>
+    <color name="color_day_wind">#ee7F739E</color>
+    <color name="color_thunderstorm">#eeAA4484</color>
+    <color name="color_hail">#ee889AA6</color>
+    <color name="color_night_wind">#ee7F739E</color>
+
+    <color name="color_arrow">#1ABCaC</color>
+
+
+</resources>

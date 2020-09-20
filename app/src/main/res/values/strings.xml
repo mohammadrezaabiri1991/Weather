@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">MRWeather</string>
+
+    <string name="no_access_to_net">"No access to network check your connection !"</string>
+
+    <string name="enable_gps_text">Your GPS seems to be disabled, do you want to enable it?</string>
+
+    <!-- Weather -->
+    <string name="my_dialog_fragment">MyDialogFragment</string>
+    <string name="daily">daily</string>
+
+
+    <string name="clearDay">clear-day</string>
+    <string name="clearNight">clear-night</string>
+    <string name="rainy">rain</string>
+    <string name="snowy">snow</string>
+    <string name="sleety">sleet</string>
+    <string name="fog">fog</string>
+    <string name="cloudy">cloudy</string>
+    <string name="partlyCloudyDay">partly-cloudy-day</string>
+    <string name="partlyCloudyNight">partly-cloudy-night</string>
+
+    <string name="exit_app_message">Press the back button again to exit the app</string>
+
+    <string name="wi_day_sunny">&#xf00d;</string>
+    <string name="wi_day_cloudy">&#xf002;</string>
+    <string name="wi_day_cloudy_gusts">&#xf000;</string>
+    <string name="wi_day_cloudy_windy">&#xf001;</string>
+    <string name="wi_day_rain">&#xf008;</string>
+    <string name="wi_day_rain_wind">&#xf007;</string>
+    <string name="wi_day_sleet">&#xf0b2;</string>
+    <string name="wi_day_sleet_storm">&#xf068;</string>
+    <string name="wi_day_snow">&#xf00a;</string>
+    <string name="wi_day_snow_thunderstorm">&#xf06b;</string>
+    <string name="wi_day_snow_wind">&#xf065;</string>
+    <string name="wi_day_windy">&#xf085;</string>
+    <string name="wi_day_light_wind">&#xf0c4;</string>
+    <string name="wi_cloudy">&#xf013;</string>
+    <string name="wi_cloudy_windy">&#xf012;</string>
+    <string name="wi_fog">&#xf014;</string>
+    <string name="wi_rain">&#xf019;</string>
+    <string name="wi_rain_wind">&#xf018;</string>
+    <string name="wi_snow">&#xf01b;</string>
+    <string name="wi_snow_wind">&#xf064;</string>
+    <string name="wi_strong_wind">&#xf050;</string>
+    <string name="wi_tornado">&#xf056;</string>
+    <string name="wi_forecast_io_partly_cloudy_day">&#xf002;</string>
+    <string name="select_your_location">Select Your Current Location</string>
+    <string name="yourDeviceIsOffline">Your device is not access yo internet!</string>
+    <string name="wind">wind</string>
+    <string name="hail">hail</string>
+    <string name="thunderstorm">thunderstorm</string>
+    <string name="unknown">\?</string>
+    <string name="o">o</string>
+    <string name="percent">%</string>
+    <string name="km">km</string>
+
+
+    <!--  Location Listener  -->
+    <string name="img_hide_linear_details">img_hide_linear_details</string>
+    <string name="img_show_linear_details">img_show_linear_details</string>
+    <string name="from">from</string>
+    <string name="mohammad_reza_abiri">mohammad reza abiri</string>
+    <string name="failed_get_data">You are offline check your network connection !</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="v">v:</string>
+    <string name="lets_search">Let\'s search a location and find out about its weather</string>
+    <string name="server_error">Server Side Error Try Again !</string>
+    <string name="auth_error">Authentication Error Try Again !</string>
+    <string name="time_out_error">You are offline check your network connection !</string>
+    <string name="pars_error">Parse Error Try Again !</string>
+    <string name="cannot_get_location">Failed to get your location try again !</string>
+
+</resources>

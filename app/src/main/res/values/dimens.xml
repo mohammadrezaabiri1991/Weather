@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="_5dp">5dp</dimen>
+    <dimen name="_8dp">8dp</dimen>
+    <dimen name="_16dp">16dp</dimen>
+    <dimen name="_20dp">20dp</dimen>
+    <dimen name="_24dp">24dp</dimen>
+    <dimen name="_32dp">32dp</dimen>
+    <dimen name="_48dp">48dp</dimen>
+    <dimen name="_54dp">54dp</dimen>
+
+    <dimen name="_16sp">16sp</dimen>
+    <dimen name="_17sp">17sp</dimen>
+    <dimen name="_18sp">18sp</dimen>
+    <dimen name="_20sp">20sp</dimen>
+    <dimen name="_26sp">26sp</dimen>
+    <dimen name="_28sp">28sp</dimen>
+    <dimen name="_30sp">30sp</dimen>
+
+
+    <!--    Nav Drawer-->
+    <dimen name="_120dp">120dp</dimen>
+    <dimen name="_150dp">150dp</dimen>
+    <dimen name="_12sp">12sp</dimen>
+    <dimen name="_4dp">4dp</dimen>
+    <dimen name="_26dp">26dp</dimen>
+    <dimen name="_2dp">2dp</dimen>
+    <dimen name="_72dp">72dp</dimen>
+    <dimen name="_28dp">28dp</dimen>
+    <dimen name="_27dp">27dp</dimen>
+</resources>
